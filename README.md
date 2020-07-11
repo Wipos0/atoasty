@@ -1,7 +1,7 @@
-<img align='right' src="https://toasty.is-pretty.cool/AKd3WEX.png" width="200">
+<img align='right' src="https://toasty.is-pretty.cool/AKd3WEX.png" width="150">
 <h3> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h3>
 
-<p>I'm Toasty (not IRL name), 17 years old student from Turkey. I'm mainly focused on Javascript and Web Development but I'm looking forward to learn more. Oh wait, I missed something. I know C# little bit. If you want to learn more about me keep reading.</br></p>
+<p>I'm Toasty (not IRL name), 17 years old student from Turkey. I'm mainly focused on Javascript and Web Development but I'm looking forward to learn more. Oh wait, I missed something. I know C# little bit. I have a cat and I pretty much love animals. If you want to learn more about me, keep reading!</br></p>
 
 #### More About Me; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
