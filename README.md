@@ -13,3 +13,4 @@ I have started developing when I was 13-14 years old on school. The first progra
 - Instagram: [@fuwrkan](https://instagram.com/fuwrkan) 
 - Twitter: [@towastyy](https://twitter.com/towastyy)
 - Reddit: [@towasty](https://www.reddit.com/u/towasty)
+<img align='left' src="https://toasty.is-pretty.cool/4KZoiW9.gif" width="450">
